@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Button-counter</string>
+    <string name="app_name">Button Counter</string>
+    <string name="incrementButton">INCREMENT</string>
+    <string name="decrementButton">DECREMENT</string>
+    <string name="resetButton">RESET</string>
+    <string name="initialCounter">0</string>
+    <string name="instructions">Welcome to the Button Counter!
+        The counter will increment/decrement based on which button you click,
+        and will keep a running record until you click "RESET".</string>
 </resources>
