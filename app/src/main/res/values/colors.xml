@@ -3,7 +3,9 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
-    <color name="background">#E0F7FA</color>
+    <color name="background">#ffffff</color>
     <color name="buttons">#00BCD4</color>
     <color name="white">#FFFFFF</color>
+    <color name="gradient_begin">#750dba</color>
+    <color name="gradient_end">#ed0707</color>
 </resources>

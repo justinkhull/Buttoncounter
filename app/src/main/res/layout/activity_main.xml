@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/background"
+    android:background="@drawable/background_gradient"
     tools:context="com.example.justinkhull.button_counter.MainActivity">
 
     <TextView
@@ -69,6 +69,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="28dp"
         android:text="@string/instructions"
+        android:textColor="@color/white"
         android:textAlignment="center"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintStart_toStartOf="parent"
